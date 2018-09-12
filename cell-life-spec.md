@@ -39,3 +39,9 @@ Here are the rules of the world:
 12. Cells can choose to: [Move up, move down, move left, move right, attack, eat, mate]
 
 13. Two cells have to mate on the same turn to reproduce. If more than two cells in the same sight mate, the two strongest cells mate and produce a baby.
+
+14. Babies can be placed anywhere there is free space between the two parents. If there is no free space between the two parents, the mating will fail.
+
+15. Babies use a genetic algorithm to recieve their genes.
+
+16. If cells make no babie and die out, new life will be randomly spawned on the board via your subjective choice of primorial soup, amino acid comet, or god.
