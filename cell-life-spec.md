@@ -44,4 +44,4 @@ Here are the rules of the world:
 
 15. Babies use a genetic algorithm to recieve their genes.
 
-16. If cells make no babie and die out, new life will be randomly spawned on the board via your subjective choice of primorial soup, amino acid comet, or god.
+16. If cells make no babies and die out, new life will be randomly spawned on the board via your subjective choice of primorial soup, amino acid comet, or god.
